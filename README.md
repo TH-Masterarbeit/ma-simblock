@@ -9,7 +9,8 @@ https://dsg-titech.github.io/simblock/
 
 SimBlock has a visualization tool, by which you can see the transition of block propagation.
 
-- [SimBlock Visualizer](https://github.com/dsg-titech/simblock-visualizer)
+- [SimBlock Visualizer Repo](https://github.com/dsg-titech/simblock-visualizer)
+- [SimBlock Visualizer Link](https://dsg-titech.github.io/simblock-visualizer/)
 
 ## License
 
